@@ -1,0 +1,44 @@
+# Create package.json with all required dependencies
+package_json = """{
+  "name": "admybrand-insights",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.12.7",
+    "@radix-ui/react-icons": "^1.3.0",
+    "@radix-ui/react-dropdown-menu": "^2.1.1",
+    "@radix-ui/react-slot": "^1.1.0",
+    "framer-motion": "^11.3.19",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^2.4.0",
+    "class-variance-authority": "^0.7.0",
+    "lucide-react": "^0.417.0",
+    "export-to-csv": "^1.2.4",
+    "jspdf": "^2.5.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "@types/node": "^20.14.12",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.40",
+    "tailwindcss": "^3.4.7",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.2.5"
+  }
+}"""
+
+with open(f"{project_name}/package.json", "w") as f:
+    f.write(package_json)
+
+print("Created package.json")
