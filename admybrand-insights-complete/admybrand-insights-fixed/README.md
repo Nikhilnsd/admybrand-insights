@@ -210,12 +210,6 @@ This project was developed using various AI-assisted tools:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Support
-
-For questions or support:
-- Email: support@admybrand.com
-- GitHub Issues: [Create an issue](https://github.com/yourusername/admybrand-insights/issues)
-
 ## 🌟 Acknowledgments
 
 - Next.js team for the amazing framework
@@ -225,4 +219,10 @@ For questions or support:
 
 ---
 
-**Built with ❤️ for ADmyBRAND by AI-Assisted Development**
+## 📄 License
+
+MIT License — use freely, share proudly 🚀
+
+---
+
+> 💡 by Nikhil S Doshikar
