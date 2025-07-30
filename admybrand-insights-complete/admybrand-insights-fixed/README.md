@@ -219,10 +219,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📄 License
-
-MIT License — use freely, share proudly 🚀
-
----
-
 > 💡 by Nikhil S Doshikar
