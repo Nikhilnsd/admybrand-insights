@@ -2,7 +2,10 @@
 
 A modern, interactive analytics dashboard built with Next.js 14, TypeScript, Tailwind CSS, and Recharts. This project showcases advanced data visualization, real-time updates, and beautiful UI/UX design for digital marketing agencies.
 
-![Dashboard Preview](https://admybrand-insights-git-main-nikhils-projects-45557f9d.vercel.app/)
+
+## 🚀 Live Demo
+
+🔗 [View Project on Vercel](https://admybrand-insights-git-main-nikhils-projects-45557f9d.vercel.app/)
 
 ## 🚀 Features
 
